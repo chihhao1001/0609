@@ -40,8 +40,8 @@ nav a:visited {
   font-weight: 300;
 }
 nav a:hover {
-  color: #FFA9AB;
-  text-decoration: none;
+    color: #F5F1F1;
+    text-decoration: none;
 }
 nav ul {
   margin-right: 20px;
@@ -58,12 +58,12 @@ header {
     background-image: url(assets/hero.jpg);
 }
 header h1 {
-  color: #FFFFFF;
-  font-size: 70px;
-  text-align: center;
-  font-weight: 700;
-  margin-bottom: 70px;
-  line-height: 95px;
+    color: #FFFFFF;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 70px;
+    line-height: 95px;
 }
 header a:link {
     padding-top: 20px;
@@ -71,7 +71,7 @@ header a:link {
     padding-bottom: 20px;
     padding-left: 40px;
     background-color: #FAFAFA;
-    border-radius: 35px;
+    border-radius: 18px;
     font-size: 22px;
     color: #000000;
     text-decoration: none;
@@ -82,7 +82,7 @@ header a:visited {
     padding-bottom: 20px;
     padding-left: 40px;
     background-color: #FAFAFA;
-    border-radius: 35px;
+    border-radius: 18px;
     font-size: 22px;
     color: #000000;
     text-decoration: none;
@@ -93,7 +93,7 @@ header a:hover {
     padding-bottom: 20px;
     padding-left: 40px;
     background-color: #EE0E0E;
-    border-radius: 35px;
+    border-radius: 18px;
     font-size: 22px;
     color: #F4F4F4;
     text-decoration: none;
@@ -111,6 +111,7 @@ article h2 {
 }
 .course {
     background-image: url(assets/programBG.jpg);
+
 
 }
 .container1 {
@@ -134,8 +135,8 @@ article h2 {
     border-radius: 20px;
     margin-left: 10px;
     -webkit-transition: all 500ms ease-in-out 0s;
-    -o-transition: all 500ms ease-in-out 0s;
-    transition: all 500ms ease-in-out 0s;
+    -o-transition: all 400ms ease-in-out 0s;
+    transition: all 400ms ease-in-out 0s;
     background-image: url(assets/program.jpg);
 }
 article p {
